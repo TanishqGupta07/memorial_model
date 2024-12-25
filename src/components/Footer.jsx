@@ -57,7 +57,7 @@ const Footer = () => {
         {/* Footer Bottom */}
         <div className="text-center mt-8 pt-6 border-t border-gray-700">
           <p className="text-gray-400 text-sm">
-            &copy; 2024 Memorial Model H.S. School. All rights reserved. | Designed with ❤ by <a href="#" className="text-blue-400 hover:text-blue-500">SGC</a>
+            &copy; 2024 Memorial Model H.S. School. All rights reserved. | Designed by <a href="#" className="text-blue-400 hover:text-blue-500">SGC</a>
           </p>
         </div>
       </div>

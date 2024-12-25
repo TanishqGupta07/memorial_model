@@ -17,20 +17,6 @@ const About = () => {
         </div>
       </header>
 
-      {/* New Academic Session Section
-      <div className="mt-8 bg-white p-6 rounded-lg shadow-lg">
-        <h2 className="text-2xl font-semibold text-red-600 mb-4">
-          New Academic Session
-        </h2>
-        <p className="text-gray-700 mb-4">
-          Commences from{" "}
-          <span className="font-bold text-red-600">15th June 2019</span>
-        </p>
-        <p className="text-gray-700 font-medium">
-          Sunday Open (Timings 8 AM to 4 PM)
-        </p>
-      </div> */}
-
       {/* Streams Offered Section */}
       <div className="mt-8 grid grid-cols-1 md:grid-cols-2 gap-8">
         <div className="bg-white p-6 rounded-lg shadow-lg">
